@@ -7,6 +7,6 @@
 
 **User:**
 
--   id: admin | password: 123456
--   id: science | password: science
--   id: student3 | password: student3
+-  ADMIN-   id: admin | password: 123456
+-  Mentor-  id: science | password: science 
+-  Mentee-  id: student3 | password: student3
